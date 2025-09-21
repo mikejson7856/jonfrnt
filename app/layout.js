@@ -4,8 +4,8 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Google Maps",
-  description: "google maps",
+  title: "Google Duo",
+  description: "google duo",
 };
 
 export default function RootLayout({ children }) {
